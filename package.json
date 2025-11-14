@@ -1,0 +1,17 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "Cross-platform note-taking software.",
+  "private": true,
+  "author": {
+    "name": "Joseph Githaka Gitau",
+    "username": "githhaka",
+    "url": "https://github.com/githhaka"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/githhaka/notes.git"
+  },
+  "packageManager": "pnpm@10.20.0"
+}
